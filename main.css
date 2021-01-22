@@ -1,0 +1,21 @@
+.bc_black {
+    background-color: black;
+}
+.bc_navbar{
+    background-color: rgb(104, 240, 194);
+}
+.full_width{
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#mapid { 
+    position:absolute;
+    height: 100%;
+    width: 100%; }
